@@ -1,6 +1,6 @@
 # aichat
-## aichat is a complete aichat CLI agent for Termux/Android 16 that replaces every Google reference with open-source and free-tier alternatives. Let me plan this out and build it systematically.
-Let me build this comprehensive AI chat agent for Termux. I'll start with the core architecture.
+## aichat is a complete aichat CLI agent for Termux/Android 16 that replaces every Google reference with open-source and free-tier alternatives.
+Built this comprehensive AI chat agent for Termux.
 
 # ✅ Complete — aichat 2.0 is Ready for Termux/Android 16
 
