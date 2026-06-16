@@ -1,14 +1,14 @@
 # aichat
-## aichat is a complete aichat CLI agent for Termux/Android 16 that replaces every Google reference with open-source and free-tier alternatives.
+aichat is a complete aichat CLI agent for Termux/Android 16 that replaces every Google reference with open-source and free-tier alternatives.
 Built this comprehensive AI chat agent for Termux.
 
-# ✅ Complete — aichat 2.0 is Ready for Termux/Android 16
+✅ Complete — aichat 2.0 is Ready for Termux/Android 16
 
-# a full-featured AI chat agent CLI called aichat that replaces every Google reference with free, open alternatives. ## Here's what's included:
+This is a full-featured AI chat agent CLI called aichat that replaces every Google reference with free, open alternatives. ## Here's what's included:
 
 ---
 
-# 📁 Project Structure (33 files)
+📁 Project Structure (33 files)
 
 ```
 aichat/
@@ -51,7 +51,7 @@ aichat/
 
 ---
 
-# # 🔑 What Replaced Google
+🔑 What Replaced Google
 
 Google Product	Replacement	Cost	
 Gemini API	NVIDIA NIM free tier	Free — 5000 RPM, no CC	
@@ -64,7 +64,7 @@ Telemetry	Opt-in, disabled by default	—
 
 ---
 
-# 🚀 Quick Install in Termux
+🚀 Quick Install in Termux
 
 ```bash
 # 1. Clone and enter directory
@@ -84,7 +84,7 @@ aichat
 
 ---
 
-# 🎮 Key Commands
+🎮 Key Commands
 
 Command	Action	
 `/help`	Show all 25+ commands	
@@ -100,7 +100,7 @@ Command	Action
 
 ---
 
-# 🧠 Free API Endpoints Used
+🧠 Free API Endpoints Used
 
 Endpoint	Purpose	Limits	
 `integrate.api.nvidia.com/v1`	LLM inference (20+ models)	5000 RPM free	
